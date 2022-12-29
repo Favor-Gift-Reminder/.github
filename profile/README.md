@@ -1,6 +1,6 @@
 
 # 페이버 - Favor
-<img height="250" src="https://via.placeholder.com/250"></img>
+<img height="250" src="./assets/icon.png"></img>
 > **_선물 기록/리마인더 앱_** <br/>
 > **_개발기간: 2022.12.29_**
 
