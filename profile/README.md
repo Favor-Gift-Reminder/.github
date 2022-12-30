@@ -12,10 +12,14 @@
 
 <br/>
 
-[![Swift Badge](http://img.shields.io/badge/-5.7.1-555555?style=for-the-badge&label=Swift&labelColor=F54A2A&logo=swift&logoColor=white)]() <br/>
-[![Kotlin Badge](http://img.shields.io/badge/-1.8.0-555555?style=for-the-badge&label=Kotlin&labelColor=7A54F6&logo=kotlin&logoColor=white)]() <br/>
-[![SpringBoot Badge](http://img.shields.io/badge/-2.7.5-555555?style=for-the-badge&label=SpringBoot&labelColor=7DB150&logo=spring&logoColor=white)]() <br/>
-[![Figma Badge](http://img.shields.io/badge/-116.5.18-555555?style=for-the-badge&label=Figma&labelColor=5451F6&logo=figma&logoColor=white)]() <br/>
+[![Swift Badge](http://img.shields.io/badge/-5.7.1-555555?style=for-the-badge&label=Swift&labelColor=F05138&logo=swift&logoColor=white)]() <br/>
+[![Kotlin Badge](http://img.shields.io/badge/-1.8.0-555555?style=for-the-badge&label=Kotlin&labelColor=7F52FF&logo=kotlin&logoColor=white)]() <br/>
+[![SpringBoot Badge](http://img.shields.io/badge/-2.7.5-555555?style=for-the-badge&label=SpringBoot&labelColor=6DB33F&logo=springboot&logoColor=white)]() <br/>
+<br/>
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)]()
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 <br/>
 
