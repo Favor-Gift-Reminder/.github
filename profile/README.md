@@ -29,5 +29,6 @@
 |:-:|:-:|:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/60438045?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/97531269?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/91575646?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/114586593?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/114793764?v=4" width=200>|
 |[@nomatterjun](https://github.com)|[@eung7](https://github.com/eung7)|[@msckr](https://github.com/msckr)|[@baeab](https://github.com/baeab)|[@eunki96](https://github.com/eunki96)|
+|🍎 iOS|🍎 iOS|🤖 안드로이드|🎨 디자인|💾 서버|
 
 <br/>
