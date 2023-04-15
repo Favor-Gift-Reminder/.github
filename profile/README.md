@@ -27,10 +27,10 @@
 
 ## 👥 우리 팀을 소개합니다
 
-|이창준|김응철|조민수|김현빈|배가희|정은기|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/60438045?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/97531269?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/91575646?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/92162928?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/114586593?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/114793764?v=4" width=200>|
-|[@nomatterjun](https://github.com/nomatterjun)|[@eung7](https://github.com/eung7)|[@msckr](https://github.com/msckr)|[@YangNu](https://github.com/YangNu)|[@baeab](https://github.com/baeab)|[@eunki96](https://github.com/eunki96)|
-|🍎 iOS|🍎 iOS|🤖 안드로이드|🤖 안드로이드|🎨 디자인|💾 서버|
+|이창준|김응철|조민수|김현빈|배가희|정은기|이주원|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/60438045?v=4" width=120>|<img src="https://avatars.githubusercontent.com/u/97531269?v=4" width=120>|<img src="https://avatars.githubusercontent.com/u/91575646?v=4" width=120>|<img src="https://avatars.githubusercontent.com/u/92162928?v=4" width=120>|<img src="https://avatars.githubusercontent.com/u/114586593?v=4" width=120>|<img src="https://avatars.githubusercontent.com/u/114793764?v=4" width=120>|<img src="https://avatars.githubusercontent.com/u/108407945?v=4" width=120>|
+|[@nomatterjun](https://github.com/nomatterjun)|[@eung7](https://github.com/eung7)|[@msckr](https://github.com/msckr)|[@YangNu](https://github.com/YangNu)|[@baeab](https://github.com/baeab)|[@eunki96](https://github.com/eunki96)|[@Juser0](https://github.com/Juser0)|
+|🍎 iOS|🍎 iOS|🤖 안드로이드|🤖 안드로이드|🎨 디자인|💾 서버|💾 서버|
 
 <br/>
